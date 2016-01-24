@@ -1,0 +1,28 @@
+name: Ivanflores
+favicon: null
+layout_spectrum: 0.804223814047873
+typography_spectrum: 0.4497766592539847
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.8361068717204034
+  lightness: 0.2783994583878666
+  saturation: 0.3743247054517269
+  rhythmicContrast: 0.9055513695348054
+purpose: []
