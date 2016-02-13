@@ -1,7 +1,7 @@
 name: Ivanflores
 favicon: null
-layout_spectrum: 0.804223814047873
-typography_spectrum: 0.4497766592539847
+layout_spectrum: 0.74904
+typography_spectrum: 0.84501
 cta:
   domain: null
   bucket: null
@@ -16,11 +16,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#2d3238'
+    - '#fefefe'
+    - '#4b6a7e'
+    - '#fff500'
+    - '#fd9b0c'
   brandStrength: 0.8361068717204034
   lightness: 0.2783994583878666
   saturation: 0.3743247054517269
