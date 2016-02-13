@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Ivanflores]]></title>
-        <description><![CDATA[Ivanflores]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[My project]]></title>
+        <description><![CDATA[My project]]></description>
+        <link>https://thegrid.ai/ivanflores/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 18:26:59 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 13 Feb 2016 18:49:25 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ivanflores/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Follow me in this great adventure.]]></title>
+            <description><![CDATA[<article><h1>Follow me in this great adventure.</h1><p>It is always hard to focus on what it is really important. Life throws at you so many things during a normal day that it is no wonder our brain is used to reverting to automatic pilot most of the time.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6b262bd0bde5342956a3e31b05a68d5c2e7051f5.jpg"></article>]]></description>
+            <link>https://thegrid.ai/ivanflores/51eaeb4e-518b-4536-851c-b5095b28a24f/index.html</link>
+            <guid isPermaLink="false">51eaeb4e-518b-4536-851c-b5095b28a24f</guid>
+            <pubDate>Sat, 13 Feb 2016 18:48:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/927e3185-92af-450f-b684-faf7c4102c07.jpg">]]></description>
-            <link>undefined24464c1b-823c-4016-b16a-fb4ce9f47ca2/index.html</link>
+            <link>https://thegrid.ai/ivanflores/24464c1b-823c-4016-b16a-fb4ce9f47ca2/index.html</link>
             <guid isPermaLink="false">24464c1b-823c-4016-b16a-fb4ce9f47ca2</guid>
             <pubDate>Sat, 13 Feb 2016 18:26:36 GMT</pubDate>
         </item>
