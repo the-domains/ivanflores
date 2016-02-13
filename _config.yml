@@ -2,6 +2,7 @@ name: Ivanflores
 favicon: null
 layout_spectrum: 0.74904
 typography_spectrum: 0.84501
+title: My project
 cta:
   domain: null
   bucket: null
